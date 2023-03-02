@@ -3,8 +3,6 @@
   <groupId>Jenkins</groupId>
   <artifactId>HelloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <properties>
-    <maven.compiler.release>8</maven.compiler.release>
-</properties>
+ 
 
 </project>
